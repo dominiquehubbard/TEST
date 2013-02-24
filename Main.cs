@@ -1,15 +1,14 @@
 using System;
-
-namespace test
+	namespace test
+		
 {
 	class MainClass
 	{
 		public static void Main (string[] args)
 		{
+			int a=7;
+			if(test == a)
 			Console.WriteLine ("Hello World!");
-			int test =5;
-            if (test == 3)
-                Console.WriteLine("Yay");
 		}
 	}
 }

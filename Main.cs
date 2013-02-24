@@ -6,7 +6,7 @@ using System;
 	{
 		public static void Main (string[] args)
 		{
-			int a=10;
+			int a=130;
 			if(test == a)
 			Console.WriteLine ("Hello World!");
 		}

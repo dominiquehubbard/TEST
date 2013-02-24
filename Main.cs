@@ -7,7 +7,7 @@ namespace test
 		public static void Main (string[] args)
 		{
 			Console.WriteLine ("Hello World!");
-			int test=10
+			int test=7
 			if (test ==7)
 			Console.Writeline("Yay");
 		}

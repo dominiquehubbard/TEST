@@ -7,7 +7,11 @@ using System;
 		public static void Main (string[] args)
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
 			int a=13;
+=======
+			int a=13;
+>>>>>>> neo
 =======
 			int a=13;
 >>>>>>> neo

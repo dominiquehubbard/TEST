@@ -6,7 +6,11 @@ using System;
 	{
 		public static void Main (string[] args)
 		{
-			int a=100;
+<<<<<<< HEAD
+			int a=13;
+=======
+			int a=13;
+>>>>>>> neo
 			if(test == a)
 			Console.WriteLine ("Hello World!");
 		}

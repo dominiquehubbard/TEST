@@ -8,7 +8,11 @@ using System;
 		{
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			int a=13;
+=======
+			int a=13;
+>>>>>>> neo
 =======
 			int a=13;
 >>>>>>> neo
